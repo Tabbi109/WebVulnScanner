@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is a comprehensive web application vulnerability scanner developed in Python. Designed as a portfolio piece for computer science students interested in cybersecurity, it combines robust backend scanning logic with an interactive and modern graphical user interface. It demonstrates core concepts of web interaction, intelligent crawling, and essential vulnerability detection.
+This is a comprehensive web application vulnerability scanner developed in Python. Designed as a portfolio piece for cybersecurity, it combines robust backend scanning logic with an interactive and modern graphical user interface. It demonstrates core concepts of web interaction, intelligent crawling, and essential vulnerability detection.
 
 ## Features
 
