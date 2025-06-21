@@ -1,5 +1,3 @@
-/* styles.qss - Polished Modern Dark Theme */
-
 /* General Window Background & Font */
 QMainWindow {
     background-color: #263238; /* Darker blue-grey for main background */
